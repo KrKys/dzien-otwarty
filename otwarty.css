@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 0;
 }
 body {
     font-family: "Amatic SC", sans-serif;
@@ -8,6 +9,7 @@ body {
 #container {
     text-align: center;
     background-color: rgb(0,119,161);
+    font-size: 2rem;
 }
 #plan {
     text-align: center;
