@@ -6,6 +6,9 @@ body {
     color: #03295a;
 }
 #container {
-    background-color: rgb(197,0,0);
     text-align: center;
+}
+#plan {
+    text-align: center;
+    font-size: 2rem;
 }
