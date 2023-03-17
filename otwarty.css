@@ -14,7 +14,7 @@ body {
 #plan {
     text-align: center;
     font-size: 2rem;
-    background-image: linear-gradient(to bottom, #ff6a77, #e30613);
+    background-color: #ff6a77;
 }
 div#plan>p {
     font-family: "Lato, sans-serif";
